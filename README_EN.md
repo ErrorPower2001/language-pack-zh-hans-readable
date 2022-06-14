@@ -1,5 +1,5 @@
 [中文](https://github.com/ErrorPower2001/language-pack-zh-hans-readable/blob/master/README.md "切换至中文README.md") | English
-# language-pack-zh-hans-readable Simplified Chinese Language Pack：revised readability
+# language-pack-zh-hans-readable<br>Simplified Chinese Language Pack：revised readability
 Make Minecraft: Bedrock Edition 's simplified Chinese be readable.
 
 # Introduction

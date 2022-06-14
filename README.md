@@ -1,5 +1,5 @@
 中文 | [English](https://github.com/ErrorPower2001/language-pack-zh-hans-readable/blob/master/README_EN.md "Switch to English README.md")
-# language-pack-zh-hans-readable 简体中文包：易读性修正
+# language-pack-zh-hans-readable<br>简体中文包：易读性修正
 对 Minecraft: Bedrock Edition 的简体中文的翻译文本进行易读性修正
 
 # 简介
