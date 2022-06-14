@@ -1,0 +1,62 @@
+{
+    "?_ // ": "",
+    "?_comment_template // descriptions": "descriptions",
+
+    "?_What is it // 这是什么": "// This is a template  // 这是一个模板",
+
+    "doc-url":"https://docs.microsoft.com/zh-cn/minecraft/creator/documents/behaviorpack#创建清单文件",
+    "?_format_version // 格式版本": "",
+    "format_version": 2,
+
+    "?_header // 本MCPack的头文件": "",
+    "header":
+    {
+        "?_name // MCPack的名字": "",
+        "name": "My Resource Pack",
+
+        "?_description // 对MCPack的描述": "",
+        "description": "This is a mine resource pack.",
+
+        "?_uuid // MCPack的UUID，值是永远的，唯一的": "",
+        "uuid": "f2e27736-f1fe-4c20-b510-baecb762fc5b",
+
+        "?_version // MCPack的版本": "",
+        "version": [1, 0, 0],
+
+        "?_min_engine_version // MCPack适用的最低游戏版本": "",
+        "min_engine_version": [1, 19, 0]
+    },
+
+    "?_modules // 本MCPack包含的模块": "目前，即使键“module”是一个数组，但一个MCPack只包含与加载一个模块",
+    "modules":
+    [
+        {
+            "?_description // 对该模块的描述": "这句话在游戏中没有任何地方有显示",
+            "description": "",
+
+            "?_uuid // 该模块的通用唯一标识码": "",
+            "uuid": "023e2502-8fd2-4983-bd65-94cb757a77ce",
+
+            "?_version // 模块的版本": "",
+            "version": [1, 0, 0],
+
+            "?_type // 模块类型": "资源包",
+            "type": "resources"
+        }
+    ],
+
+    "metadata":
+    {
+        "?_generated_with // A list of tools and their version that have modified this pack": "",
+        "generated_with":
+        {
+            "MicrosoftVisualStudioCode": ["1.68.0"]
+        },
+        "?_authors // 作者": "",
+        "authors": ["ErrorPower"],
+        "?_license // 协议": "",
+        "license": "",
+        "?_url // 相关链接": "",
+        "url": ""
+    }
+}
