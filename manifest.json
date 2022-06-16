@@ -21,7 +21,7 @@
         "uuid": "f2e27736-f1fe-4c20-b510-baecb762fc5b",
 
         "?_version // MCPack的版本": "",
-        "version": [1, 0, 0],
+        "version": [1, 0, 1],
 
         "?_min_engine_version // MCPack适用的最低游戏版本": "",
         "min_engine_version": [1, 19, 0]
@@ -38,7 +38,7 @@
             "uuid": "023e2502-8fd2-4983-bd65-94cb757a77ce",
 
             "?_version // 模块的版本": "",
-            "version": [1, 0, 1],
+            "version": [1, 0, 0],
 
             "?_type // 模块类型": "资源包",
             "type": "resources"
